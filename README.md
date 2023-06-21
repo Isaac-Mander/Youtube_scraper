@@ -2,7 +2,7 @@
 
 This is a python program that downloads youtube videos onto your computer.
 
-It requires a youtube api key (set on up here https://developers.google.com/youtube/v3/getting-started)
+It requires a youtube api key (set one up here https://developers.google.com/youtube/v3/getting-started)
 
 The program requires the following python libraries:
 1. bs4
